@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mediaIcon {
+    width: 20px;
+    height: 20px;
+}
+.buttons {
+    margin-left: 100px;
+}
+
+.lang_icon {
+    height: 38px;
+    width: 38px;
+    margin-left: 5px;
+}
+.main1sub {
+    display: inline-block;
+    margin: 20px 40px 0 40px;
+
+}
+
+.main2,
+.main3,
+.main4 {
+    display: inline-block;
+    background-color: #E3D7E2;
+    width: 300px;
+    height: 500px;
+    vertical-align: top;
+    margin: 25px 5px 5px 5px;
+}
+
+.applications,
+.technologies {
+    display: block;
+    margin: 4px 0;
+}
+
+.header {
+    display: inline-block;
+    background-color: #FDFDFD;
+    
+}
+
+.smallpictures {
+    height: ;
+    width: 300px;
+}
+
+.applications {
+    width: 300px;
+}
+
+.socialMedia {
+    margin-left: 240px;
+}
+
+#emailPhone {
+    margin-left: 300px;
+}
+
+.header p {
+    padding-left: 450px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: cursive;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+h2 {
+    background-color: #878593;
+    margin-top: -4px;
+    background: linear-gradient(#B3B3B6, #888794, #B3B3B6);
+}
+
+h3 {
+    background-color: #878593;
+    background: linear-gradient(#B3B3B6, #888794, #B3B3B6);
+
+}
+
+
+#wrapper {
+    height: 100%px;
+    width: 950px;
+    background-color: #1F0F13;
+    padding: 10px;
+    background: linear-gradient(#231318, #6F5964, #231318);
+
+}
+
+#profilephoto {
+    height: 250;
+    width: 380;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 0;
+    border: solid 4px #C0C0C0; 
+}
+
+#about {
+    height: 250px;
+    width: 400px;
+    display: inline-block;
+    background-color: #EEE8EE;
+    vertical-align: top;
+
+}
+
+#tech1 {
+    margin-top: 75px;
+}
+#tech2 {
+    margin-top: 40px;
+}
+#tech3 {
+    margin-top: 3px;
+}
+
+.buttons {
+    border: none;
+    background-color: #3CAE80;
+    color: white;
+    padding: 10px 25px;
+    font-size: .75em;
+    border-radius: 10px;
+    
+}
